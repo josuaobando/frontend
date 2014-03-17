@@ -1,4 +1,1 @@
-frontend
-========
-
-Curso Frondend| Mejorando.la
+Curso de FrontEnd
